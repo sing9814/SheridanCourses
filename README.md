@@ -4,6 +4,12 @@
 
 An intuitive mobile application for courses at Sheridan College. It is designed for students who are usually between 18 to 30 years old, while also considering the continuing education courses that are above 45 years old and are not tech savvy.
 
+## Versions
+
+1. [Version 1](https://www.figma.com/file/jv7DA7r6uvSggtEGYxwCtG/Assignment1)
+2. [Version 2](https://www.figma.com/file/MiJlNKymeksMOW6uftGrtv/Assignment2)
+3. [Version 3](https://www.figma.com/file/svzzBeRmi7LsgWMAHEKQvH/Assignment3)
+
 ## Features
 
 - Log in with student username and password
