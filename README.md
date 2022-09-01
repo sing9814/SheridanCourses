@@ -2,7 +2,17 @@
 
 ## About
 
-An intuitive mobile application for courses at Sheridan College. It is designed for students who are usually between 18 to 30 years old, while also considering the continuing education courses that are above 45 years old and are not tech savvy.
+An intuitive mobile application for courses at Sheridan College. It is designed for students mainly between the ages of 18 and 30, while also considering the continuing education students that are above 45 years old who are not tech savvy. [View App](https://www.figma.com/file/svzzBeRmi7LsgWMAHEKQvH/Assignment3)
+
+## Tasks
+
+1. Submit Human Computer Interaction’s Assignment 1 ( Estimated time: 47s )
+
+2. Send a message in the HCI Course Chat ( Estimated time: 26s )
+
+3. Change the contact email address ( Estimated time: 17.5s )
+
+**Estimated times are based on testers' average
 
 ## Versions
 
@@ -15,7 +25,6 @@ An intuitive mobile application for courses at Sheridan College. It is designed 
 - Log in with student username and password
 - View course list and individual courses
 - View and submit assignments
-- Voice to text messaging
 - Course and assigned group chats
 - Create your own personal group chat
 - Edit profile
@@ -40,8 +49,3 @@ Quizzes: Allow students to write their quizzes within the Sheridan Courses app u
 Grades: Allow students to view their grades as well as a class grade distribution graph to visually show the student how they scored in comparison to their classmates. If they scored in the lower half of the class the app should recommend tips on how to study better for that subject/link to a tutoring service.
 
 Notification settings: Allow the user to choose which notifications they want to see. Also, allow the user to set a reminder notification for an upcoming due date/assessment when they would like to receive it (1 hour before, 1 day before, 2 days before, etc)
-
-## Links
-
-[Figma](https://www.figma.com/file/MiJlNKymeksMOW6uftGrtv/Assignment2?node-id=0%3A1) </br>
-[Video](https://youtu.be/dQw4w9WgXcQ)
